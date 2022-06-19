@@ -1,0 +1,764 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: post-views v2.6.1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-05 18:24+0800\n"
+"PO-Revision-Date: 2013-03-12 01:53:10-0500\n"
+"Last-Translator: Juan Diego Gonzalez <jd.glezga@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: D:/SVN/Project/wordpress/opensource/submit-to-wordpress_org/plugins/post-views/trunk\n"
+"X-Textdomain-Support: yes"
+
+#: post-views.php:86
+#: post-views.php:2051
+#: post-views.php:2052
+#: post-views.php:2140
+#@ post-views
+msgid "Post Views"
+msgstr "Post Views"
+
+#: post-views.php:454
+#@ post-views
+msgid "right now"
+msgstr "сейчас"
+
+#: post-views.php:458
+#@ post-views
+msgid "second ago"
+msgstr "секунд назад"
+
+#: post-views.php:460
+#@ post-views
+msgid "seconds ago"
+msgstr "секунд назад"
+
+#: post-views.php:466
+#@ post-views
+msgid "minute ago"
+msgstr "минут назад"
+
+#: post-views.php:468
+#@ post-views
+msgid "minutes ago"
+msgstr "минут назад"
+
+#: post-views.php:474
+#@ post-views
+msgid "hour ago"
+msgstr "часов назад"
+
+#: post-views.php:476
+#@ post-views
+msgid "hours ago"
+msgstr "часов назад"
+
+#: post-views.php:482
+#@ post-views
+msgid "day ago"
+msgstr "дней назад"
+
+#: post-views.php:484
+#@ post-views
+msgid "days ago"
+msgstr "дней назад"
+
+#: post-views.php:490
+#@ post-views
+msgid "week ago"
+msgstr "недель назад"
+
+#: post-views.php:492
+#@ post-views
+msgid "weeks ago"
+msgstr "недель назад"
+
+#: post-views.php:497
+#@ post-views
+msgid "month ago"
+msgstr "месяцев назад"
+
+#: post-views.php:499
+#@ post-views
+msgid "months ago"
+msgstr "месяцев назад"
+
+#: post-views.php:669
+#: post-views.php:673
+#: post-views.php:1099
+#: post-views.php:1269
+#: post-views.php:1385
+#: post-views.php:1493
+#@ post-views
+msgid "Summary"
+msgstr "Выводы"
+
+#: post-views.php:672
+#: post-views.php:1095
+#: post-views.php:1098
+#: post-views.php:1268
+#: post-views.php:1384
+#: post-views.php:1492
+#@ post-views
+msgid "Analytics"
+msgstr "Отчет"
+
+#: post-views.php:1153
+#: post-views.php:1403
+#@ post-views
+msgid "Visitor"
+msgstr "Посетители"
+
+#: post-views.php:1154
+#: post-views.php:1404
+#@ post-views
+msgid "Robot"
+msgstr "Поисковики"
+
+#: post-views.php:705
+#: post-views.php:1157
+#: post-views.php:1412
+#: post-views.php:1527
+#: post-views.php:2199
+#@ post-views
+msgid "Read"
+msgstr "Прочитано"
+
+#: post-views.php:706
+#: post-views.php:1158
+#: post-views.php:1413
+#: post-views.php:1528
+#: post-views.php:2200
+#@ post-views
+msgid "Preview"
+msgstr "Фрагмент"
+
+#: post-views.php:709
+#@ post-views
+msgid "Viewed Coverage"
+msgstr "Просмотров"
+
+#: post-views.php:713
+#: post-views.php:1421
+#: post-views.php:1530
+#@ post-views
+msgid "Switch"
+msgstr "Выбрать"
+
+#: post-views.php:1101
+#: post-views.php:1265
+#@ post-views
+msgid "Options"
+msgstr "Настройки"
+
+#: post-views.php:1114
+#: post-views.php:1399
+#@ post-views
+msgid "View all categories"
+msgstr "Смотреть все категории"
+
+#: post-views.php:1125
+#@ post-views
+msgid "Show all dates"
+msgstr "Показать все даты"
+
+#: post-views.php:1143
+#@ post-views
+msgid "Order by Last Viewed"
+msgstr "Прочитано последним"
+
+#: post-views.php:1144
+#@ post-views
+msgid "Order by Post ID"
+msgstr "Публикации"
+
+#: post-views.php:1145
+#@ post-views
+msgid "Order by Today"
+msgstr "Сегодня"
+
+#: post-views.php:1146
+#@ post-views
+msgid "Order by Week"
+msgstr "За неделю"
+
+#: post-views.php:1147
+#@ post-views
+msgid "Order by Month"
+msgstr "За месяц"
+
+#: post-views.php:1148
+#@ post-views
+msgid "Order by Half Year"
+msgstr "За полугодие"
+
+#: post-views.php:1149
+#@ post-views
+msgid "Order by Year"
+msgstr "За год"
+
+#: post-views.php:1150
+#@ post-views
+msgid "Order by Total"
+msgstr "Всего"
+
+#: post-views.php:1161
+#@ post-views
+msgid "Filter"
+msgstr "Выбрать"
+
+#: post-views.php:1164
+#@ post-views
+msgid "Search"
+msgstr "Поиск"
+
+#: post-views.php:1167
+#@ default
+msgid "List View"
+msgstr "Просмотр списка"
+
+#: post-views.php:1168
+#@ default
+msgid "Trend View"
+msgstr "Просмотр тенденций"
+
+#: post-views.php:1176
+#@ post-views
+msgid "ID"
+msgstr "ID"
+
+#: post-views.php:1177
+#: post-views.php:2153
+#@ post-views
+msgid "Title"
+msgstr "Статья"
+
+#: post-views.php:1178
+#@ post-views
+msgid "Last Viewed Time"
+msgstr "Просмотрено"
+
+#: post-views.php:1179
+#@ post-views
+msgid "Today"
+msgstr "Сегодня"
+
+#: post-views.php:1180
+#@ post-views
+msgid "Week"
+msgstr "Неделя"
+
+#: post-views.php:1181
+#@ post-views
+msgid "Month"
+msgstr "Месяц"
+
+#: post-views.php:1182
+#@ post-views
+msgid "Half Year "
+msgstr "Полугодие"
+
+#: post-views.php:1183
+#@ post-views
+msgid "Year"
+msgstr "Год"
+
+#: post-views.php:1184
+#@ post-views
+msgid "Total"
+msgstr "Всего"
+
+#: post-views.php:1238
+#@ post-views
+msgid "First"
+msgstr "Первая"
+
+#: post-views.php:1239
+#@ post-views
+msgid "PrePage"
+msgstr "Предыдущая"
+
+#: post-views.php:1240
+#@ post-views
+msgid "Current"
+msgstr "Страница"
+
+#: post-views.php:1248
+#@ post-views
+msgid "NextPage"
+msgstr "Следующая"
+
+#: post-views.php:1250
+#@ post-views
+msgid "Last"
+msgstr "Последняя"
+
+#: post-views.php:1287
+#@ post-views
+msgid "Setting Updated..."
+msgstr "Обновлено..."
+
+#: post-views.php:1298
+#@ post-views
+msgid "Default setting loaded..."
+msgstr "Настройки загружены..."
+
+#: post-views.php:1305
+#@ post-views
+msgid "Logging include :"
+msgstr "Регистрировать :"
+
+#: post-views.php:1307
+#@ post-views
+msgid "Everyone"
+msgstr "Все"
+
+#: post-views.php:1308
+#@ post-views
+msgid "Guests Only"
+msgstr "Только гости"
+
+#: post-views.php:1309
+#@ post-views
+msgid "Registered Users Only"
+msgstr "Только зарегистрированные"
+
+#: post-views.php:1313
+#@ post-views
+msgid "Use Cookie :"
+msgstr "Использовать Cookie :"
+
+#: post-views.php:1315
+#: post-views.php:1324
+#: post-views.php:1329
+#@ post-views
+msgid "Not"
+msgstr "Нет"
+
+#: post-views.php:1316
+#: post-views.php:1325
+#: post-views.php:1330
+#@ post-views
+msgid "Yes"
+msgstr "Да"
+
+#: post-views.php:1318
+#@ post-views
+msgid "Cookie Timeout :"
+msgstr "Задержка :"
+
+#: post-views.php:1319
+#@ post-views
+msgid "minutes"
+msgstr "минут"
+
+#: post-views.php:1322
+#@ post-views
+msgid "Using Cache Plugin? "
+msgstr "Использовать кеш?"
+
+#: post-views.php:1327
+#@ post-views
+msgid "Show real time post views? "
+msgstr "Показать время просмотров?"
+
+#: post-views.php:1334
+#@ post-views
+msgid "Load Default"
+msgstr "Сбросить настройки"
+
+#: post-views.php:1335
+#@ post-views
+msgid "Update Setting"
+msgstr "Обновить настройки"
+
+#: post-views.php:1408
+#@ post-views
+msgid "Most"
+msgstr "Популярные"
+
+#: post-views.php:1409
+#@ post-views
+msgid "Least"
+msgstr "Непопулярные"
+
+#: post-views.php:1439
+#@ post-views
+msgid "By Total"
+msgstr "Всего"
+
+#: post-views.php:1439
+#: post-views.php:1446
+#@ post-views
+msgid "Views"
+msgstr "Просмотров"
+
+#: post-views.php:1439
+#@ post-views
+msgid "By Year"
+msgstr "За год"
+
+#: post-views.php:1439
+#@ post-views
+msgid "By Half Year"
+msgstr "За полугодие"
+
+#: post-views.php:1446
+#@ post-views
+msgid "By Month"
+msgstr "За месяц"
+
+#: post-views.php:1446
+#@ post-views
+msgid "By Week"
+msgstr "За неделю"
+
+#: post-views.php:1446
+#@ post-views
+msgid "By Today"
+msgstr "Сегодня"
+
+#: post-views.php:2156
+#@ post-views
+msgid "Statistics Type"
+msgstr "Тип статистики"
+
+#: post-views.php:2158
+#@ post-views
+msgid "Least Viewed"
+msgstr "Непопулярные"
+
+#: post-views.php:2159
+#@ post-views
+msgid "Least Viewed By Tag"
+msgstr "Непопулярные по ключевым словам"
+
+#: post-views.php:2160
+#@ post-views
+msgid "Least Viewed By Category"
+msgstr "Непопулярные по категориям"
+
+#: post-views.php:2162
+#@ post-views
+msgid "Most Viewed"
+msgstr "Популярные"
+
+#: post-views.php:2163
+#@ post-views
+msgid "Most Viewed By Tag"
+msgstr "По ключевым словам"
+
+#: post-views.php:2164
+#@ post-views
+msgid "Most Viewed By Category"
+msgstr "По категориям"
+
+#: post-views.php:2166
+#@ post-views
+msgid "Latest Viewed"
+msgstr "Просмотров"
+
+#: post-views.php:2167
+#@ post-views
+msgid "Latest Viewed By Tag"
+msgstr "Просмотров по ключевым словам"
+
+#: post-views.php:2168
+#@ post-views
+msgid "Latest Viewed By Category"
+msgstr "Просмотров по категориям"
+
+#: post-views.php:2170
+#@ post-views
+msgid "Oldest Viewed"
+msgstr "Последнее"
+
+#: post-views.php:2171
+#@ post-views
+msgid "Oldest Viewed By Tag"
+msgstr "Последнее по ключевым словам"
+
+#: post-views.php:2172
+#@ post-views
+msgid "Oldest Viewed By Category"
+msgstr "Последнее по категориям"
+
+#: post-views.php:2177
+#@ post-views
+msgid "Time Span:"
+msgstr "Продолжительность:"
+
+#: post-views.php:2179
+#@ post-views
+msgid "By Today Views"
+msgstr "Сегодня просмотрено"
+
+#: post-views.php:2180
+#@ post-views
+msgid "By Week Views"
+msgstr "Просмотрено за неделю"
+
+#: post-views.php:2181
+#@ post-views
+msgid "By Month Views"
+msgstr "Просмотрено за месяц"
+
+#: post-views.php:2182
+#@ post-views
+msgid "By Half Year Views"
+msgstr "Просмотрено за полугодие"
+
+#: post-views.php:2183
+#@ post-views
+msgid "By Year Views"
+msgstr "Просмотрено за год"
+
+#: post-views.php:2184
+#@ post-views
+msgid "By Total Views"
+msgstr "Просмотров всего"
+
+#: post-views.php:2189
+#@ post-views
+msgid "View Type:"
+msgstr "Просматривали:"
+
+#: post-views.php:2191
+#@ post-views
+msgid "Normal Visitor Viewed"
+msgstr "Пользователи просмотрели"
+
+#: post-views.php:2192
+#@ post-views
+msgid "Robot Viewed"
+msgstr "Поисковики проиндексировали"
+
+#: post-views.php:2197
+#@ post-views
+msgid "Output Type:"
+msgstr "Показывать тип:"
+
+#: post-views.php:2205
+#@ post-views
+msgid "Include Views From:"
+msgstr "Источник для показов:"
+
+#: post-views.php:2207
+#@ post-views
+msgid "All Types"
+msgstr "Все типы"
+
+#: post-views.php:2208
+#@ post-views
+msgid "Post"
+msgstr "Статья"
+
+#: post-views.php:2209
+#@ post-views
+msgid "Page"
+msgstr "Страница"
+
+#: post-views.php:2220
+#@ post-views
+msgid "Records To Show:"
+msgstr "Показать записей:"
+
+#: post-views.php:2223
+#@ post-views
+msgid "Maximum Title Length:"
+msgstr "Максимальная длина записи:"
+
+#: post-views.php:2227
+#@ post-views
+msgid "Category / Tag IDs:"
+msgstr "Категория / ID тег:"
+
+#: post-views.php:2228
+#@ post-views
+msgid "Seperate mutiple categories/tags with commas, positive to include and '-' to exlude(if not using '* by category/tag' ignore it)."
+msgstr "Разделите запятой категории или теги, используйте '-' для отключения (если не используется '* для игнорирования)."
+
+#: post-views.php:2542
+#: post-views.php:2548
+#@ post-views
+msgid "Never"
+msgstr "Никогда"
+
+#: post-views.php:710
+#@ post-views
+msgid "Views Summation"
+msgstr "Общая статистика"
+
+#: post-views.php:711
+#@ post-views
+msgid "Viewed Posts"
+msgstr "Просмотр статей"
+
+#: post-views.php:1580
+#@ post-views
+msgid "Viewed Or Not ( Day )"
+msgstr "Просмотров ( День )"
+
+#: post-views.php:1591
+#@ post-views
+msgid "Viewed Or Not ( Week )"
+msgstr "Просмотров ( Неделя )"
+
+#: post-views.php:1602
+#@ post-views
+msgid "Viewed Or Not ( Month )"
+msgstr "Просмотров ( Месяц )"
+
+#: post-views.php:676
+#: post-views.php:1103
+#: post-views.php:1272
+#: post-views.php:1388
+#: post-views.php:1496
+#@ post-views
+msgid "Help"
+msgstr "Помощь"
+
+#: post-views.php:751
+#: post-views.php:762
+#: post-views.php:771
+#: post-views.php:798
+#: post-views.php:807
+#: post-views.php:814
+#@ post-views
+msgid "Historical Viewed Coverage (%)"
+msgstr "Историческая область просмотров (%)"
+
+#: post-views.php:1581
+#@ post-views
+msgid "Historical Views ( Day )"
+msgstr "История просмотров ( День )"
+
+#: post-views.php:1592
+#@ post-views
+msgid "Historical Views ( Week )"
+msgstr "История просмотров ( Неделя )"
+
+#: post-views.php:1603
+#@ post-views
+msgid "Historical Views ( Month )"
+msgstr "История просмотров ( Месяц )"
+
+#: post-views.php:2224
+#@ post-views
+msgid "to disable."
+msgstr "– без учета длины заголовка."
+
+#: post-views.php:674
+#: post-views.php:1100
+#: post-views.php:1270
+#: post-views.php:1381
+#: post-views.php:1386
+#: post-views.php:1494
+#@ post-views
+msgid "Ranking"
+msgstr "Рейтинг"
+
+#: post-views.php:675
+#: post-views.php:1102
+#: post-views.php:1271
+#: post-views.php:1387
+#: post-views.php:1495
+#@ post-views
+msgid "Terms"
+msgstr "Применение"
+
+#: post-views.php:750
+#: post-views.php:837
+#: post-views.php:923
+#@ post-views
+msgid "Viewed Coverage ( Today )"
+msgstr "Охват просмотров (сутки)"
+
+#: post-views.php:761
+#: post-views.php:847
+#: post-views.php:934
+#@ post-views
+msgid "Viewed Coverage ( This Week )"
+msgstr "Охват просмотров (текущая неделя)"
+
+#: post-views.php:770
+#: post-views.php:856
+#: post-views.php:943
+#@ post-views
+msgid "Viewed Coverage ( This Month )"
+msgstr "Охват просмотров (текущий месяц)"
+
+#: post-views.php:781
+#: post-views.php:867
+#: post-views.php:954
+#@ post-views
+msgid "Viewed Coverage ( This Half Year )"
+msgstr "Охват просмотров (текущее полугодие)"
+
+#: post-views.php:782
+#: post-views.php:868
+#: post-views.php:955
+#@ post-views
+msgid "Viewed Coverage ( This Year )"
+msgstr "Охват просмотров (текущий год)"
+
+#: post-views.php:783
+#: post-views.php:869
+#: post-views.php:956
+#@ post-views
+msgid "Viewed Coverage ( All Past Days )"
+msgstr "Охват просмотров (все прошедшие дни)"
+
+#: post-views.php:784
+#: post-views.php:870
+#: post-views.php:957
+#@ post-views
+msgid "Views Contribution ( This Year )"
+msgstr "Доля просмотров (текущий год)"
+
+#: post-views.php:838
+#: post-views.php:884
+#@ post-views
+msgid "Historical Views Summation ( Day )"
+msgstr "Суммарная история просмотров (сутки)"
+
+#: post-views.php:848
+#: post-views.php:892
+#@ post-views
+msgid "Historical Views Summation ( Week )"
+msgstr "Суммарная история просмотров (неделя)"
+
+#: post-views.php:857
+#: post-views.php:900
+#@ post-views
+msgid "Historical Views Summation ( Month )"
+msgstr "Суммарная история просмотров (месяц)"
+
+#: post-views.php:924
+#: post-views.php:971
+#@ post-views
+msgid "Historical Viewed Posts ( Day )"
+msgstr "История просмотров (сутки)"
+
+#: post-views.php:935
+#: post-views.php:980
+#@ post-views
+msgid "Historical Viewed Posts ( Week )"
+msgstr "История просмотров (неделя)"
+
+#: post-views.php:944
+#: post-views.php:988
+#@ post-views
+msgid "Historical Viewed Posts ( Month )"
+msgstr "История просмотров (месяц)"
+
